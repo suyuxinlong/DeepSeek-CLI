@@ -1,0 +1,12 @@
+setup.py
+deepseek_cli/__init__.py
+deepseek_cli/client.py
+deepseek_cli/config.py
+deepseek_cli/main.py
+deepseek_cli/tools.py
+deepseek_cli.egg-info/PKG-INFO
+deepseek_cli.egg-info/SOURCES.txt
+deepseek_cli.egg-info/dependency_links.txt
+deepseek_cli.egg-info/entry_points.txt
+deepseek_cli.egg-info/requires.txt
+deepseek_cli.egg-info/top_level.txt
